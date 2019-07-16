@@ -26,11 +26,11 @@ Linux :
 <li> 4 or 5 for enable/disable collision and debug display</li><br />
 </br>
 
-![img1](https://raw.githubusercontent.com/username/ft_vox/master/img/environment.png)
-![img2](https://raw.githubusercontent.com/username/ft_vox/master/img/desert.png)
-![img3](https://raw.githubusercontent.com/username/ft_vox/master/img/mountains.png)
-![img4](https://raw.githubusercontent.com/username/ft_vox/master/img/greddy_meshing.png)
-![img5](https://raw.githubusercontent.com/username/ft_vox/master/img/underwater_caves.png)
-![img6](https://raw.githubusercontent.com/username/ft_vox/master/img/vertex_render.png)
+![img1](https://raw.githubusercontent.com/hdelanoe/ft_vox/master/img/environment.png)
+![img2](https://raw.githubusercontent.com/hdelanoe/ft_vox/master/img/desert.png)
+![img3](https://raw.githubusercontent.com/hdelanoe/ft_vox/master/img/mountains.png)
+![img4](https://raw.githubusercontent.com/hdelanoe/ft_vox/master/img/greddy_meshing.png)
+![img5](https://raw.githubusercontent.com/hdelanoe/ft_vox/master/img/underwater_caves.png)
+![img6](https://raw.githubusercontent.com/hdelanoe/ft_vox/master/img/vertex_render.png)
 
 
